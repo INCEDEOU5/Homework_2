@@ -11,8 +11,9 @@ GameObject:
   - component: {fileID: 413218}
   - component: {fileID: 3367454}
   - component: {fileID: 2393902}
+  - component: {fileID: 6394450770972734619}
   m_Layer: 0
-  m_Name: Poplar_Tree
+  m_Name: GOOD TREE
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -83,3 +84,16 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &6394450770972734619
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 137650}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.241777, y: 5.8196263, z: 3.2466774}
+  m_Center: {x: -0.013854265, y: 2.9017284, z: 0.08243036}
